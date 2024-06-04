@@ -1,0 +1,4 @@
+deploy:
+  image: ghcr.io/undefined/unknown
+  commands:
+    - echo hello world
